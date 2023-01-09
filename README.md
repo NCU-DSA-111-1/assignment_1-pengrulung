@@ -2,6 +2,8 @@
 
 Data Structure Assignment1
 
+109503510_通訊三_龍芃如
+
 ## STRUCTURE
 
 * Input 3 bits
